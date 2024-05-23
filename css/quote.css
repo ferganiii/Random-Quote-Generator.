@@ -1,0 +1,16 @@
+h1{
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+}
+.btn-quot{
+    background-color: blue;
+    border:solid black 2px !important;
+    color: white;
+    transition: .5s;
+}
+
+.btn-quot:hover{
+
+    background-color: rgb(103, 122, 76);
+}
